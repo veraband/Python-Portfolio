@@ -1,2 +1,8 @@
 # Python-Portfolio
 These are projects that I created at Jones College Prep 25-26.
+- calculator.py — A Python calculator application that performs basic arithmetic operations through a simple and user-friendly interface. This project demonstrates core programming concepts such as variables, conditionals, functions, and user input handling.
+- data_science.py — A beginner data science project focused on analyzing and organizing data using Python libraries such as Pandas. The program explores data manipulation, filtering, and basic analysis techniques commonly used in real-world data science workflows.
+- guest.py — A guest management program that stores and processes guest information. This project highlights the use of lists, loops, and input validation while demonstrating how Python can be used to organize and manage data efficiently.
+- list.py — A project centered around list operations in Python, including adding, removing, sorting, and iterating through elements. It was created to strengthen understanding of data structures and fundamental programming logic.
+- simulation.py — A simulation-based Python project designed to model random or real-world scenarios through code. This program demonstrates problem-solving skills, algorithmic thinking, and the use of loops and conditional logic to recreate dynamic outcomes.
+- song_finder.py — A music recommendation program that suggests songs based on user preferences and mood. The project uses datasets, user input, and filtering techniques to create a personalized experience while showcasing skills in Python, Pandas, and basic data handling.
